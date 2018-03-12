@@ -11,4 +11,7 @@ sort list.tmp|uniq > ./brewlist/homebrew-cask.txt
 
 rm *.tmp
  
+prompt "Cleanup"
+brew cleanup
+brew cask cleanup
 
