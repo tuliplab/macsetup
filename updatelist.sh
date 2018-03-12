@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-
 cat ./brewlist/homebrew-packages.txt > list.tmp
 brew leaves >> list.tmp
 sort list.tmp|uniq > ./brewlist/homebrew-packages.txt
