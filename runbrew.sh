@@ -27,3 +27,7 @@ brew tap buo/cask-upgrade
 
 cat ./brewlist/homebrew-packages.txt|xargs brew install
 cat ./brewlist/homebrew-cask.txt|xargs brew cask install
+
+prompt "Cleanup"
+brew cleanup
+brew cask cleanup
