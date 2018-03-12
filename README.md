@@ -2,7 +2,7 @@
 
 ## Clone the GIT
 
-    $ git clone https://github.com/tuliplab/macsetup.git && cd macsetup && chmod a+x *.sh 
+    $ git clone https://github.com/tuliplab/macsetup.git && cd macsetup  
   
 ## Install All Brewlist Packages
 
