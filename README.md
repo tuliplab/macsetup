@@ -5,7 +5,7 @@
 
     $ git clone https://github.com/tuliplab/macsetup.git && cd macsetup  
   
-## Install All Brewlist Packages
+## Install All `Brewlist` Packages
 
     $ ./runbrew.sh
     
