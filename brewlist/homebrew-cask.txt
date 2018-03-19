@@ -20,4 +20,5 @@ evernote
 visual-studio-code
 mactex
 google-photos-backup-and-sync
+google-drive-file-stream
 whatsapp
