@@ -22,3 +22,6 @@ mactex
 google-photos-backup-and-sync
 google-drive-file-stream
 whatsapp
+signal
+gpg-suite
+

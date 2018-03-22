@@ -13,6 +13,7 @@ jpegoptim
 languagetool
 mackup
 midnight-commander
+npm
 pandoc
 privoxy
 proxychains-ng
