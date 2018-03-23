@@ -1,6 +1,9 @@
 # macsetup
 ---
 
+- Brew Packages
+- Other Services
+
 ## Clone the GIT
 
     $ git clone https://github.com/tuliplab/macsetup.git && cd macsetup  
