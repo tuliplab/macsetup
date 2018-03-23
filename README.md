@@ -1,8 +1,8 @@
 # macsetup
 ---
 
-- Brew Packages
-- Other Services
+- `Homebrew` Packages
+- `NPM` and `Hexo` Services
 
 ## Clone the GIT
 
