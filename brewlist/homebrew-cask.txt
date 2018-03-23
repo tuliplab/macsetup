@@ -24,4 +24,5 @@ google-drive-file-stream
 whatsapp
 signal
 gpg-suite
+keybase
 

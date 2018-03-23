@@ -18,6 +18,8 @@ pandoc
 privoxy
 proxychains-ng
 python
+pinentry
+pinentry-mac
 wget
 youtube-dl
 zsh

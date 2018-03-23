@@ -31,3 +31,15 @@ cat ./brewlist/homebrew-cask.txt|xargs brew cask install
 echo "Cleanup"
 brew cleanup
 brew cask cleanup
+
+# Install Hexo Related Packages
+npm install hexo-cli -g
+
+npm install hexo-deployer-git --save
+npm install hexo-generator-searchdb --save
+npm install hexo-generator-feed --save
+npm install hexo-generator-sitemap --save
+# Replace render
+npm un hexo-renderer-marked --save
+npm i hexo-renderer-markdown-it --save
+
