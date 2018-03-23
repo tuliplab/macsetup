@@ -2,7 +2,7 @@
 ---
 
 - Brew Packages
-- Other Services 
+- Other Services
 
 ## Clone the GIT
 
