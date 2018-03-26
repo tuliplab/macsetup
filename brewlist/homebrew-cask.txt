@@ -25,4 +25,5 @@ whatsapp
 signal
 gpg-suite
 keybase
+github
 
