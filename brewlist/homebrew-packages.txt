@@ -22,6 +22,9 @@ pinentry
 pinentry-mac
 wget
 youtube-dl
+tmux
+byobu
+mtr
 zsh
 zsh-completions
 zsh-syntax-highlighting
