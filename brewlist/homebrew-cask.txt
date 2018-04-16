@@ -10,7 +10,7 @@ grammarly
 handbrake
 iterm2
 java
-keepassx
+keepassxc
 onyx
 osxfuse
 skype
