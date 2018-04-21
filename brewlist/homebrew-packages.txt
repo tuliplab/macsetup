@@ -1,5 +1,6 @@
 aria2
 aspell
+asciinema
 axel
 cowsay
 byobu
