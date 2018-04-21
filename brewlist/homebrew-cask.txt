@@ -23,6 +23,7 @@ google-photos-backup-and-sync
 google-drive-file-stream
 whatsapp
 signal
+safari-technology-preview
 gpg-suite
 keybase
 github
