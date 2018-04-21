@@ -16,4 +16,7 @@
 
     $ ./updatelist.sh
   
+## Update the System
+
+    $ ./brewup.sh
 
