@@ -23,6 +23,9 @@ else
 fi
 
 brew doctor
+brew tap caskroom/versions
+brew tap caskroom/drivers
+brew tap caskroom/fonts 
 brew tap buo/cask-upgrade
 
 cat ./brewlist/homebrew-packages.txt|xargs brew install
