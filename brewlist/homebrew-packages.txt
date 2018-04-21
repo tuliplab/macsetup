@@ -1,9 +1,12 @@
 aria2
 aspell
 axel
+cowsay
+byobu
 diction
 dnscrypt-proxy
 dnsmasq
+figlet
 ffmpeg
 git
 gnuplot
@@ -11,8 +14,11 @@ graphviz
 imagemagick
 jpegoptim
 languagetool
+lolcat
 mackup
 midnight-commander
+mtr
+nethack
 npm
 pandoc
 privoxy
@@ -22,9 +28,8 @@ pinentry
 pinentry-mac
 wget
 youtube-dl
+tldr
 tmux
-byobu
-mtr
 zsh
 zsh-completions
 zsh-syntax-highlighting
