@@ -1,6 +1,7 @@
 aria2
 aspell
 asciinema
+asciinema2gif
 axel
 cowsay
 byobu
@@ -17,6 +18,7 @@ jpegoptim
 languagetool
 lolcat
 mackup
+mas
 midnight-commander
 mtr
 nethack
