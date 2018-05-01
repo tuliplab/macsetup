@@ -9,6 +9,7 @@ diction
 dnscrypt-proxy
 dnsmasq
 figlet
+
 ffmpeg
 git
 gnuplot
