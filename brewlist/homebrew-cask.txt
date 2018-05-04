@@ -5,6 +5,7 @@ dnscrypt
 dropbox
 filezilla
 firefox
+fluor
 google-chrome
 grammarly
 handbrake
