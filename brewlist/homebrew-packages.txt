@@ -3,6 +3,7 @@ aspell
 asciinema
 asciinema2gif
 axel
+bat
 cowsay
 byobu
 diction
