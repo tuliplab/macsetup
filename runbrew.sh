@@ -33,8 +33,8 @@ cat ./brewlist/homebrew-packages.txt|xargs brew install
 cat ./brewlist/homebrew-cask.txt|xargs brew cask install
 
 # run from dumped Brewfile
+cd ./brewlist
 brew bundle
-
 # backup all bundles
 brew bundle dump
 
