@@ -27,9 +27,16 @@ brew tap caskroom/versions
 brew tap caskroom/drivers
 brew tap caskroom/fonts 
 brew tap buo/cask-upgrade
+brew tap Homebrew/bundle
 
 cat ./brewlist/homebrew-packages.txt|xargs brew install
 cat ./brewlist/homebrew-cask.txt|xargs brew cask install
+
+# run from dumped Brewfile
+brew bundle
+
+# backup all bundles
+brew bundle dump
 
 echo "Cleanup"
 brew cleanup
