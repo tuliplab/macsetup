@@ -1,5 +1,6 @@
 adobe-digital-editions
 appcleaner
+authy
 calibre
 dingtalk
 dnscrypt
