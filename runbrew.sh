@@ -53,3 +53,6 @@ npm install hexo-generator-sitemap --save
 npm un hexo-renderer-marked --save
 npm i hexo-renderer-markdown-it --save
 
+# Install Mac Clean up https://github.com/fwartner/mac-cleanup
+sh -c "$(wget https://raw.githubusercontent.com/fwartner/mac-cleanup/master/installer.sh -O -)"
+
