@@ -3,7 +3,6 @@
 
 echo "Update"
 # Update cleanup
-curl -fsSL "https://raw.githubusercontent.com/fwartner/mac-cleanup/master/installer.sh" | bash -s update
 brew update
 brew upgrade 
 brew cask upgrade
