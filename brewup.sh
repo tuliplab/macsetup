@@ -12,6 +12,7 @@ brew cu -acy
 echo "Cleanup"
 brew cleanup -s
 brew cask cleanup
+sudo cleanup
 
 echo "System Update"
 npm update -g
