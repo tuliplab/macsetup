@@ -10,9 +10,9 @@ diction
 dnscrypt-proxy
 dnsmasq
 figlet
-
 ffmpeg
 git
+gource
 gnuplot
 graphviz
 imagemagick
