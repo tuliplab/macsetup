@@ -15,7 +15,7 @@ git
 gource
 gnuplot
 graphviz
-
+queequeg
 imagemagick
 jpegoptim
 languagetool
