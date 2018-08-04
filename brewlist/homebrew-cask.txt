@@ -14,6 +14,7 @@ iterm2
 java
 keepassxc
 onyx
+opera
 osxfuse
 skype
 sopcast
