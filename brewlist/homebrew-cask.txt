@@ -11,6 +11,7 @@ google-chrome
 grammarly
 handbrake
 iterm2
+iina
 java
 keepassxc
 onyx
