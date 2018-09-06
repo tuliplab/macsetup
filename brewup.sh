@@ -13,7 +13,6 @@ brew cu -acy
 
 echo "Cleanup"
 brew cleanup -s
-brew cask cleanup
 sudo cleanup
 sudo find ~/ -name ".DS_Store" -delete
 
