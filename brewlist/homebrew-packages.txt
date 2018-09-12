@@ -13,10 +13,12 @@ figlet
 ffmpeg
 git
 gource
+ghostscript
 gnuplot
 graphviz
 queequeg
 imagemagick
+jbig2enc
 jpegoptim
 languagetool
 lolcat
@@ -25,8 +27,10 @@ mas
 midnight-commander
 mtr
 nethack
+netpbm
 npm
 pandoc
+pngwolf-zopfli
 privoxy
 proxychains-ng
 python
