@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Ask for the administrator password upfront.
+sudo -v
 
 echo "Update"
 
@@ -15,10 +17,11 @@ echo "Cleanup"
 brew cleanup -s
 sudo cleanup
 sudo find ~/ -name ".DS_Store" -delete
-curl -fsSL "https://raw.githubusercontent.com/mengfeng/clean-my-mac/master/clean_my_mac.sh" | bash
+# curl -fsSL "https://raw.githubusercontent.com/mengfeng/clean-my-mac/master/clean_my_mac.sh" | bash
 
 echo "System Update"
 npm update -g
+npm install -g npm
 mas outdated
  
 echo "Checking"
