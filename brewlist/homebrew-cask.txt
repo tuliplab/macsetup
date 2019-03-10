@@ -31,7 +31,6 @@ whatsapp
 signal
 safari-technology-preview
 gpg-suite
-keybase
 github
 xquartz
 
