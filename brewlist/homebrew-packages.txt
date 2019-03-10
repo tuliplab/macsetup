@@ -32,6 +32,7 @@ npm
 pandoc
 pngwolf-zopfli
 privoxy
+proselint
 proxychains-ng
 python
 pinentry
