@@ -15,6 +15,7 @@ iterm2
 iina
 java
 keepassxc
+mathpix-snipping-tool
 onyx
 opera
 osxfuse
