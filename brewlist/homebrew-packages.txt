@@ -38,10 +38,10 @@ python
 pinentry
 pinentry-mac
 wget
+wireguard-tools
 youtube-dl
 tldr
 tmux
 zsh
 zsh-completions
 zsh-syntax-highlighting
-
