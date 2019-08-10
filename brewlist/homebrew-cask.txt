@@ -1,6 +1,7 @@
 adobe-digital-editions
 appcleaner
 authy
+bandizip
 brave-browser
 calibre
 dingtalk
@@ -16,6 +17,7 @@ iina
 java
 keepassxc
 mathpix-snipping-tool
+motrix
 onyx
 opera
 osxfuse
