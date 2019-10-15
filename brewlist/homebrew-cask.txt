@@ -38,4 +38,5 @@ safari-technology-preview
 gpg-suite
 github
 xquartz
+wireguard
 
