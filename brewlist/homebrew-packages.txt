@@ -10,6 +10,7 @@ diction
 dnscrypt-proxy
 dnsmasq
 figlet
+fish
 ffmpeg
 git
 gource
@@ -21,6 +22,7 @@ imagemagick
 jbig2enc
 jpegoptim
 languagetool
+latexdiff
 lolcat
 mackup
 mas
@@ -41,7 +43,4 @@ wget
 wireguard-tools
 youtube-dl
 tldr
-tmux
-zsh
-zsh-completions
-zsh-syntax-highlighting
+tmux 
