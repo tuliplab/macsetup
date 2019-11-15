@@ -51,9 +51,11 @@ npm install hexo-generator-searchdb --save
 npm install hexo-generator-feed --save
 npm install hexo-generator-sitemap --save
 npm install --save hexo-blog-encrypt
+npm install hexo-related-popular-posts --save
 # Replace render
 npm un hexo-renderer-marked --save
-npm i hexo-renderer-markdown-it --save
+npm i hexo-renderer-markdown-it-plus --save
+
 
 
 # Install Mac Clean up https://github.com/fwartner/mac-cleanup
