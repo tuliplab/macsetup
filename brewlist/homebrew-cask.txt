@@ -17,7 +17,7 @@ iterm2
 iina
 java
 keepassxc
-Key base
+Keybase
 logitech-presentation
 mathpix-snipping-tool
 motrix
@@ -42,4 +42,5 @@ github
 xquartz
 wireguard-go
 wireguard-tools
+Zotero
 
