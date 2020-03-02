@@ -43,4 +43,5 @@ xquartz
 wireguard-go
 wireguard-tools
 Zotero
+zoomus
 
