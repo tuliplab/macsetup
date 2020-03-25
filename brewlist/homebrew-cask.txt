@@ -39,9 +39,10 @@ signal
 safari-technology-preview
 gpg-suite
 github
-xquartz
+vmware-horizon-client
 wireguard-go
 wireguard-tools
+xquartz
 Zotero
 zoomus
 
