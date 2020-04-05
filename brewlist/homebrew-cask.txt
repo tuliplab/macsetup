@@ -23,6 +23,7 @@ mathpix-snipping-tool
 motrix
 onyx
 opera
+opendnsupdater
 osxfuse
 skype
 smartgit
