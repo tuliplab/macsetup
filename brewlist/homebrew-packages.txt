@@ -2,7 +2,7 @@ aria2
 aspell
 asciinema
 asciinema2gif
-axel
+axel 
 bat
 cowsay
 byobu
