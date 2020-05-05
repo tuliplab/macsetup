@@ -28,7 +28,6 @@ osxfuse
 skype
 smartgit
 sopcast
-teamviewer
 tor-browser-alpha
 evernote
 visual-studio-code
