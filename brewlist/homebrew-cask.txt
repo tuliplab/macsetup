@@ -22,6 +22,7 @@ Keybase
 logitech-presentation
 mathpix-snipping-tool
 motrix
+notion
 onyx
 opera
 opendnsupdater
