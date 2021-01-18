@@ -4,6 +4,7 @@ authy
 bandizip
 brave-browser
 calibre
+clashx
 cryptomator
 dingtalk
 dnscrypt
