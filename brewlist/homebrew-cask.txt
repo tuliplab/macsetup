@@ -37,15 +37,10 @@ visual-studio-code
 mactex
 google-photos-backup-and-sync
 google-drive-file-stream
-whatsapp
-signal
-safari-technology-preview
 gpg-suite
 github
-vmware-horizon-client
 wireguard-go
 wireguard-tools
 xquartz
 Zotero
-zoomus
-
+zoom
