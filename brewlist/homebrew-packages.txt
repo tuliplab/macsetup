@@ -19,6 +19,7 @@ gnuplot
 graphviz
 queequeg
 imagemagick
+i2p
 jbig2enc
 jpegoptim
 languagetool
