@@ -68,3 +68,8 @@ npm i hexo-renderer-markdown-it-plus --save
 # curl -L -o pdfsizeopt.single https://raw.githubusercontent.com/pts/pdfsizeopt/master/pdfsizeopt.single
 # chmod +x pdfsizeopt.single
 # ln -s pdfsizeopt.single pdfsizeopt
+
+# Mackup
+# mackup uninstall
+# mackup backup
+# .mackup.cfg ...
