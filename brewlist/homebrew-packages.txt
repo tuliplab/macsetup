@@ -24,6 +24,7 @@ gnu-sed
 gnupg
 gnuplot
 go
+gobject-introspection
 graphviz
 handbrake
 i2p
@@ -43,6 +44,7 @@ mpssh
 mtr
 nethack
 nghttp2
+nikto
 ninja
 numpy
 pinentry-mac
@@ -59,3 +61,7 @@ tree
 wget
 wireguard-tools
 youtube-dl
+zsh
+zsh-autosuggestions
+zsh-completions
+zsh-syntax-highlighting
